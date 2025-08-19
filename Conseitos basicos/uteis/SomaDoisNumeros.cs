@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Conseitos_basicos.uteis
 {
-    internal class SomaDoisNumeros
+    public class SomaDoisNumeros
     {
     }
 }
